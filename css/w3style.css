@@ -2631,6 +2631,6 @@
     /*Parallax image*/
     
     .parallax {
-        background: url('Venice.jpg')no-repeat center fixed;
+        background: url('Venice.JPG')no-repeat center fixed;
         background-size: cover;
     }
